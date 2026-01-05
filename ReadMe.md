@@ -81,7 +81,7 @@ Develop an **autonomous, vision-based fall detection system** that can identify 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/LifeSavior.git
+git clone https://github.com/rgna120/LifeSavior.git
 cd LifeSavior
 
 # Create a virtual environment
